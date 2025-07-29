@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KultivTech Nusantara</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #e0f7fa, #e8f5e9);
+      color: #00695c;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 30px;
+      color: #ffffffcc;
+      text-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #004d40;
+      font-size: 24px;
+      margin-top: 40px;
+    }
+    li {
+      text-align: left;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>KultivTech Nusantara</h1>
+  <p>Mitra Digital untuk Semua Jenis Usaha</p>
+
+  <section>
+    <h2>Tentang Kami</h2>
+    <p>KultivTech Nusantara adalah penyedia layanan digital yang mendukung segala jenis usaha, dari skala mikro hingga menengah. Kami hadir untuk memperkuat branding, konten, dan kehadiran digital usaha Anda.</p>
+  </section>
+
+  <section>
+    <h2>Layanan Unggulan</h2>
+    <ul>
+      <li>Paket website usaha cepat & ringan</li>
+      <li>Desain logo dan brand identity</li>
+      <li>Pembuatan konten produk</li>
+      <li>Dukungan e-commerce & edukasi</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Kontak</h2>
+    <p><strong>Nama:</strong> Budi<br>
+    <strong>WhatsApp:</strong> 081228172126</p>
+  </section>
+</body>
+</html>
